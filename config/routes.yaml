@@ -1,0 +1,8 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+# Remplacé par la @Route dans le HomeController.php
+# home:
+#     path: /
+#     controller: App\Controller\HomeController::index
